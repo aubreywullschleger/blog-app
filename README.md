@@ -1,5 +1,5 @@
-# [Expensify App]()
+# [Boilerplate React App Title]()
 ---
-### Expensify App + course challenge solutions (Sections 9-17)
+### more detailed title
 
-This repo includes the Expensify App built during [The Complete React Developer Course by Andrew Mead](https://www.udemy.com/course/react-2nd-edition/) and solved course challenges for sections 9-17.
+Info about app
