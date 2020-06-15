@@ -1,4 +1,4 @@
-# [Boilerplate React App Title]()
+# [Blog App]()
 ---
 ### more detailed title
 
